@@ -1,9 +1,9 @@
 # Sentiment Analysis Web App - SageMaker Deployment Project
 
 This project deploys a sentiment analysis web app with SageMaker. The users could type in their reviews on the app web then click on Submit, the RNN (Recurrent Neural Network) model will perform sentiment analysis on the reviews, then returns if the review is positive or negative. It includes these components:
-    * A deployed RNN (Recurrent Neural Network) performing sentiment analysis on movie reviews
-    * A publicly accessible API
-    * Simple web page which interacts with the deployed endpoint
+* A deployed RNN (Recurrent Neural Network) performing sentiment analysis on movie reviews
+* A publicly accessible API
+* Simple web page which interacts with the deployed endpoint
 
 ![alt text](https://github.com/KiemNguyen/sentiment-analysis-web-app/blob/main/webapp.png?raw=true)
 
