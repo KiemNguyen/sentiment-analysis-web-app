@@ -5,4 +5,6 @@ This project deploys a sentiment analysis web app with SageMaker. The users coul
     - A publicly accessible API
     - Simple web page which interacts with the deployed endpoint
 
-Please note this is a project from the Udacity Machine Learning Engineering Nanodegree Program. Some of the code templates was provided by Udacity, and I provided my codes to complete the project. Some people put the whole project on their Github repos without giving any credit to Udacity. This is not the right thing to do. As professional developers, we should give credit where credit's due. I hope this repo will help other students with their learning journey.
+![alt text](https://github.com/KiemNguyen/sentiment-analysis-web-app/blob/main/webapp.png?raw=true)
+
+Please note this is a project from the Udacity Machine Learning Engineering Nanodegree Program. Some of the code templates were provided by Udacity, and I provided my codes to complete the project. Some people put the whole project on their Github repos without giving any credit to Udacity. This is not the right thing to do. As professional developers, we should give credit where credit's due. I hope this repo will help other students with their learning journey.
